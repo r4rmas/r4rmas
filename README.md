@@ -1,6 +1,6 @@
 ### BIENVENIDO/A
 
-<div style="display: flex;" markdown="1">
+<div style="display: flex; flex-direction: row;" markdown="1">
 
   <p>Mi nombre es Raul Armas, soy Desarollador Full Stack.</p>
   
