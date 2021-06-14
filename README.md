@@ -1,4 +1,5 @@
 ### BIENVENIDO/A
-Mi nombre Raul Armas, soy Desarrollador Full Stack. Actualmente estudio ingeniería en TI, pero me apasiona tanto la programación
+<div markdown="1">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raul4rmas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raul4rmas&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
