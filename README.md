@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <span>Estoy por terminar la carrera de Ing. en Tecnologías de la Información 🎓</span><br>
-<span>Me apasiona tanto el desarrollo como empacharme de sushi 😋</span><br>
+<span>Me apasiona tanto el desarrollo como empacharme de sushi 😋🍣</span><br>
 <span>Estos son mis lenguajes más usados 👇</span>
 </p>
 <p align="center">
