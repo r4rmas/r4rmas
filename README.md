@@ -5,7 +5,6 @@
 </p>
 <p align="center">
 	<span>Estoy por terminar la carrera de Ing. en Tecnologías de la Información 🎓</span><br>
-	<span>Uso el stack MERN de JavaScript para desarrollar aplicaciones web completas, dinámicas y escalables 🤓</span><br>
 	<span>En mis tiempos libres estudio desarrollo de aplicaciones Android 📱</span><br>
 	<span>Estos son mis lenguajes más usados 👇</span>
 </p>
