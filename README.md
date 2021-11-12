@@ -4,7 +4,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=raul4rmas&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-	<span>Utilizo tecnologías basadas en JavaScript para crear soluciones<span>
+	<span>Utilizo tecnologías basadas en JavaScript para crear soluciones<span><br>
 	<span>Estos son mis lenguajes más usados 👇</span>
 </p>
 <p align="center">
