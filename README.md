@@ -1,5 +1,5 @@
 <h3 align="center">¡BIENVENIDO/A!</h3>
-<p align="center">Mi nombre es Raul Armas, soy Desarrollador Full Stack 🧑‍💻</p>
+<p align="center">Mi nombre es Raul Armas, soy Desarrollador Full Stack 💻</p>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=raul4rmas&show_icons=true&theme=tokyonight" />
 </p>
