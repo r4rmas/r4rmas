@@ -4,7 +4,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=r4rmas&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-	<span>I use JavaScript based technologies to create things and solve problems.<span><br>
+	<span>I use JavaScript based technologies to solve problems and automate processes.<span><br>
 	<span>These are my most used languages 👇</span>
 </p>
 <p align="center">
