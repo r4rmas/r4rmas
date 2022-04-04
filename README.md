@@ -4,7 +4,7 @@
     <h4>I use JavaScript based technologies to create solutions and automate business process.</h4>
   </li>
   <li>
-    <h4>I ❤ Mobile Development. I develop mobile apps with React Native, but, currently studying Swift & Kotlin.</h4>
+    <h4>I ♡ Mobile Development. I develop mobile apps with React Native, but, currently studying Swift & Kotlin.</h4>
   </li>
 </ul>
 <h2>Stats</h2>
