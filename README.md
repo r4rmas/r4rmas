@@ -4,7 +4,7 @@
     <h4>I use JavaScript based technologies to create solutions and automate business process.</h4>
   </li>
   <li>
-    <h4>Currently, studying Native Mobile Development.</h4>
+    <h4>I develop mobile apps with React Native, but, currently studying Native Mobile Development.</h4>
   </li>
 </ul>
 <h2>Stats</h2>
