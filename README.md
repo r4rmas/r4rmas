@@ -1,7 +1,7 @@
 ![Full Stack Developer](https://i.ibb.co/BBB9RbJ/presentation.png)
 
-#### I use JavaScript based technologies to create solutions and automate business process.
-#### My current stacks is MERN:
+I use JavaScript based technologies to create solutions and automate business process.
+My current stacks is MERN:
 * Mongo
 * Express
 * React
