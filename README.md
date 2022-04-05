@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/BBB9RbJ/Captura-de-Pantalla-2022-04-04-a-la-s-11-04-47.png">
+<p>
+  <img src="https://i.ibb.co/BBB9RbJ/Captura-de-Pantalla-2022-04-04-a-la-s-11-04-47.png">
+</p>
 <ul>
 <h4>I use JavaScript based technologies to create solutions and automate business process.</h4>
 <h4>My current stack is MERN:</h4>
