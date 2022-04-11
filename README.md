@@ -1,8 +1,8 @@
 ![Full Stack Developer](https://i.ibb.co/BBB9RbJ/presentation.png)
 
 ## About me
-* What I'm most passionate about is creating solutions for the modern world, in other words, software. 
-* I use JavaScript based technologies to create things, solve problems and automate process. 
+* What I'm most passionate about is creating solutions for the modern world, namely software. 
+* I use JavaScript based technologies to develop applications, solve problems and automate process. 
 * Currently learning Swift & Kotlin.
 
 ## Stats
